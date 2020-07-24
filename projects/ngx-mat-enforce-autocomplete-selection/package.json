@@ -1,0 +1,35 @@
+{
+  "name": "ngx-mat-enforce-autocomplete-selection",
+  "version": "1.0.0",
+  "description": "A directive to enforce using a dropdown value in an autocomplete field",
+  "author": "Akos Szabo",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/heunetik/ngx-mat-enforce-autocomplete-selection.git"
+  },
+  "bugs": {
+    "url": "https://github.com/heunetik/ngx-mat-enforce-autocomplete-selection/issues"
+  },
+  "homepage": "https://github.com/heunetik/ngx-mat-enforce-autocomplete-selection",
+  "peerDependencies": {
+    "@angular/common": "^10.0.5",
+    "@angular/core": "^10.0.5"
+  },
+  "dependencies": {
+    "tslib": "^2.0.0"
+  },
+  "keywords": [
+    "angular",
+    "material",
+    "autocomplete",
+    "typeahead",
+    "angular-material",
+    "material-autocomplete",
+    "material-typeahead",
+    "enforce",
+    "enforce-typeahead",
+    "enforce-selection",
+    "enforce-typeahead-selection",
+    "typescript"
+  ]
+}
